@@ -1,7 +1,7 @@
-# mysql-Backup-Python
+# MySQL-Backup-Python
 
 
-mysql yedekleme için Database Ayarlarını json dosyasından kendinize göre düzenleyin : 
+MySQL yedekleme için Database Ayarlarını json dosyasından kendinize göre düzenleyin : 
 ```json
 {
   "db": {
@@ -18,5 +18,5 @@ Kullanımı :
 ```
 python Backup.py
 ```
-### Başka birşey yapmanıza gerek yok 
+### Başka birşey yapmanıza gerek yok bulunduğu dizine dosyanızı kaydedicektir.
 
